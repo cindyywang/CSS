@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:ital@1&display=swap');
+body {
+  background-color: #D6EFC7;
+  font-family: 'Open Sans', sans-serif;
+  color: #96BB7C;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+h1, h2 {
+  color: #184D47;
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+a {
+  color: #EEBB4D;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #96BB7C;
+}
